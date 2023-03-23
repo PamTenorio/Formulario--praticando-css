@@ -6,19 +6,33 @@
     font-family: 'Alkatra', cursive;
 
 }
-.Label{
-    color: #9e2a2b;
-}
-
 #titulo{
     font-size: 700;
-    color: #540b0e;
+    color: #440641;
     margin-top: 50px;
+    margin-left: 7%;
+}
+.subtitulo{
+    margin-left: 10%;
+    color: #14213d;
+
 }
 body{
-    background-color: #bde0fe;
+    background-color: #9adeed;
     font-size: 1em;
     margin-left: 30%;
     margin-top: 2%;
     justify-content: center;
 }
+ input, selecte, textarea, button{
+border-radius: 5px;
+
+ }
+ .Label{
+    color: #14213d;
+    display: block;
+    margin-bottom: 0.2em;
+ }
+ .lado-aplicacao{
+    display: block;
+ }
